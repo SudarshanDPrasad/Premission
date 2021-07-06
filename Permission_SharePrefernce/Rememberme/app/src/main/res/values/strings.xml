@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Remember me</string>
+    <string name="enter_the_user_name">Enter the user name</string>
+    <string name="enter_the_password">Enter the Password</string>
+</resources>

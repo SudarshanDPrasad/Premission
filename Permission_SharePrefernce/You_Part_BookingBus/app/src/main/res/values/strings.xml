@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booking_Bus</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_the_first_name">Enter The First Name</string>
+    <string name="enter_the_last_name">Enter The Last Name</string>
+    <string name="enter_theemailid">Enter TheEmailid</string>
+    <string name="email_id">Email-id</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_the_phone_number">Enter the Phone Number</string>
+</resources>
